@@ -8,7 +8,7 @@ The design is functional in theory but may require revisions and improvements af
 
 This board provides a clean ESP32-S3 core with USB-C connectivity, proper ESD protection, a structured 4-layer PCB stack-up, and expansion options for basic UI and peripherals. The goal was to move beyond simple 2-layer hobby boards and design something closer to real-world embedded hardware.
 
-![3D render]ESP32_Sen.png)
+![3D render](ESP32_Sen.png)
 
 
 **Key Features**
